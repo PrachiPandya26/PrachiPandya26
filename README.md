@@ -33,7 +33,7 @@
 ### Programming Languages & Backend
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,sql,fastapi,mysql,postgres,mongodb" alt="Programming & Backend" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,fastapi,mysql,postgres,mongodb" alt="Programming & Backend" /></a>
 </p>
 
 ### AI/ML, Data Science & Tools
